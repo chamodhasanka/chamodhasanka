@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chamod Hasanka</h1>
-<h3 align="center">A highly motivated and hardworking Sri Lankan undergraduate student studying software engineering. I am skilled in UI/UX, graphic design and have prior experience in software engineering.</h3>
+<h3 align="center">A highly motivated and hardworking Sri Lankan undergraduate student studying software engineering. I am skilled in developing, desgining and have prior experience in software engineering.</h3>
 
-- 🌱 I’m currently learning **UI/UX Engineering, .NET**
+- 🌱 I’m currently learning **Flutter Development, UI/UX, ML**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/chamodhasanka](https://www.behance.net/chamodhasanka)
 
